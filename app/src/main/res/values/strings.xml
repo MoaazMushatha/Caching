@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">دليل الجامعة الإسلامية</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home"> الرئيسية</string>
+    <string name="locations">الكليات</string>
+    <string name="history">جميع الأقسام</string>
+    <string name="main_name">الجامعة الإسلامية</string>
+    <string name="images">images</string>
+    <string name="test_text">Test Text</string>
+    <string name="new_today">أحدث الأنشطة</string>
+    <string name="read_more">قراءة المزيد..</string>
+    <string name="see_v">شاهد الفيديو</string>
+</resources>
